@@ -35,4 +35,4 @@ The repository contains the following key files:
 ├── docker-compose.yml          # Docker Compose file for setting up services (Postgres, ETL script)
 ├── etl_script.py               # Main Python script for the ETL process
 ├── requirements.txt            # Python dependencies for the ETL script
-└── README.md                   # This documentation file
+
