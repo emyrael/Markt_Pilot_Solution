@@ -42,7 +42,7 @@ The data consists of four collections in JSON format:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo-url.git
+    git clone https://github.com/emyrael/Markt_Pilot_Solution.git
     ```
 
 2. Build and Run the Container
