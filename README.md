@@ -4,6 +4,13 @@
 
 This repository contains my solution to the data engineering coding challenge for Mart Pilot. The goal of this challenge is to design and implement an ETL pipeline that processes anonymized sample data stored in MongoDB collections, transforming it into a relational structure suitable for analytics.
 
+## Files and Directories
+
+- **Data Exploration**: The data exploration is documented in `data_exploration.ipynb`.
+- **ETL Script**: The ETL process is implemented in `etl_script.py`.
+- **Dependencies**: The Docker file contains the necessary dependencies to run the project.
+
+
 ## Challenge Objective
 
 The task is to build an ETL/ELT pipeline in Python that extracts data from the given MongoDB collections, transforms the data into a relational schema, and loads it into a PostgreSQL database. The pipeline answers key analytical questions such as:
