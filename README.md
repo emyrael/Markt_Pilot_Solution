@@ -45,17 +45,12 @@ The data consists of four collections in JSON format:
     git clone https://github.com/your-repo-url.git
     ```
 
-2. Install the required dependencies:
+2. Build and Run the Container
     ```bash
-    pip install -r requirements.txt
+   docker-compose up --build
+
     ```
 
-3. Configure the PostgreSQL connection details in the `config.py` file.
-
-4. Run the ETL pipeline:
-    ```bash
-    python etl_pipeline.py
-    ```
 
 ## Deployment Strategy
 
