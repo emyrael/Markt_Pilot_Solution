@@ -2,14 +2,7 @@
 
 This repository contains an ETL (Extract, Transform, Load) pipeline designed for efficient data extraction, transformation, and loading into a Postgres database. The setup uses Docker for containerization, ensuring easy setup and environment consistency.
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Project Structure](#project-structure)
-3. [Setup Instructions](#setup-instructions)
-4. [Docker Setup](#docker-setup)
-5. [ETL Process](#etl-process)
-6. [Requirements](#requirements)
-7. [Usage](#usage)
+
 
 
 ---
